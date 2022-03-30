@@ -1,0 +1,39 @@
+img{
+    display: block;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tache1{
+    z-index: -1;
+    background-position:center top;
+}
+
+.ImageFond{
+    background-repeat:no-repeat;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: 1920px auto;
+    
+}
+.ImageDesignGauche{
+    border-radius: 8px;
+    margin-left: 20%;
+}
+
+.ImageDesignDroite{
+    border-radius: 8px;
+    margin-right: 20%;
+    border-color: cornsilk 10px;
+}
+
+.ImageDesign{
+    border-radius: 8px;
+    margin-left: 45%;
+}
+
+.lien{
+    text-decoration: none;
+    color: #FFFFFF;
+}
