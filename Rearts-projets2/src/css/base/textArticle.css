@@ -1,34 +1,16 @@
-.exp1{
-
-    margin-top: 10%;
-    margin-left: 320px;
-    border-radius:  5px red;
-    text-shadow: 0 0 2px red
-}
 
 
-  
   .words {
     margin-top: 80px;
-    margin-left: 45%;
+    display: flex;
+    width: 100vw;
     color: #FFFFFF;
     font-size: 3rem;
     font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: var(--font-comfortaa);
     line-height: 1;
-    letter-spacing: 0px;
-    text-justify: center;
-    position: center;
-  }
-  
-  .words1 {
-    margin-top: 80px;
-    margin-left: 30%;
-    color: #FFFFFF;
-    font-size: 0;
-    line-height: 1;
-    letter-spacing: 2px;
-    margin-left: 50%;
+    letter-spacing: 15px;
+    justify-content: center;
   }
 
   .words span {
@@ -79,9 +61,33 @@
       top: 20px;
       left: 20px;
       font-size: 12px;
+      font-family: var(--font-comfortaa);
   }
 
   .text-info{
       position: absolute;
       bottom: 1000px;
   }
+
+  .credits1{
+    font-family: var(--font-comfortaa);
+    font-size: 1.5rem;
+    text-align: center
+  }
+
+
+  .credits2{
+    font-family: var(--font-comfortaa);
+    font-size: 1.3rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .credits3{
+    font-family: var(--font-comfortaa);
+    font-size: 1.3rem;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+ 

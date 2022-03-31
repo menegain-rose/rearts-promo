@@ -7,8 +7,7 @@
 }
 
 body {
-  font-family: var( --font-article16);
-  font-size: var(--text-md);
+  font-family: var(--font-comfortaa);
   line-height: 1.6;
   background-color: var(#white);
 }
